@@ -5,7 +5,7 @@
 
 ## 📢 Explore More on LinkedIn!
 Check out our detailed project insights, media, and updates on LinkedIn <b>project section</b> . Click the link below to learn more about IntelliTeach and see it in action!
-https://www.linkedin.com/in/hanssaini2005/
+https://www.linkedin.com/in/amandeepkaur2002
 ## Features
 - User-friendly interface for easy navigation and usage
 - Secure authentication and access control for different user roles
